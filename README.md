@@ -1,4 +1,4 @@
-# fake_email
+# bulk_email_sender
 this is a project to send fake email to your known buddies and fake them.
 # Please don't misuse this. Use it for fun not for revenge
 
